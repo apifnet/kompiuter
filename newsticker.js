@@ -6,7 +6,6 @@
  *     scrolling_speed
  *     info_text
  *     close_button
- *     WWW.IDBLANTER.COM
  */
 var entries; var feed;
 var feed_url = blog_url.match(/\/$/) ? blog_url : blog_url+"/";
