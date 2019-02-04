@@ -1,0 +1,2 @@
+# kompiuter
+js for kompiuter
